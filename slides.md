@@ -35,13 +35,27 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
 
 ## Knorpel
 
+
+----
+
+Knorpelschäden bis hin zur Athrose
+
 ----
 
 ## Wirbelsäule
 
+----
+
+Bandscheibenvorfälle
+
+
 ----  ----
 
 # Vorm Rechner Sitzen
+
+----
+
+Einseitige Belastung
 
 ----
 
@@ -105,11 +119,11 @@ Einseitige Belastungen ausgleichen und ihnen entgegenwirken
 
 ----
 
-## Ohne Terraband
+## Ohne Thera-Band
 
 ----
 
-## Mit Terraband
+## Mit Thera-Band
 
 ----  ----
 
