@@ -1,24 +1,24 @@
-# reveal.js template
+# Schreibtischtäter
 
-## [reveal.js][3] presentation written in [markdown][4] set up with [fabric][5] & [fabsetup][6]
+## Rücken- und andere Leiden lindern
 
-This presentation shows how to create a reveal.js presentation which will be
-set up with the fabric task `setup.revealjs` of fabsetup.
+In dieser Präsentation geht es um einseitige Belastungen des Körpers
+durch das viele Sitzen vorm Rechner.  Es wird auf die Einseitigkeit und
+Art der Belastung auf den Körper eingegangen.  Und es werden Übungen und
+Strategien gezeigt, um die einseitigen Belastungen möglichst
+auszugleichen.
 
-Also, you can use this presentation source as a reveal.js template:
-* Checkout this repo
-* Then set the title in the `index.html` and edit the
-  `slides.md`.
+
+----
 
 
 ## Technical Details
 
-It is a [reveal.js](http://lab.hakim.se/reveal-js/) presentation
+This is a [reveal.js](http://lab.hakim.se/reveal-js/) presentation
 ([source](https://github.com/hakimel/reveal.js)) which means that this
 presentation is a static HTML5 website using a lot of JavaScript and CSS.
 
-It has been set up with the fabric task [setup.revealjs][1] of
-[fabsetup](https://github.com/theno/fabsetup).
+The presentation itself (file `slides.md`) is written in [markdown][4].
 
 
 ## Open The Presentation:
@@ -71,13 +71,13 @@ Hints:
 If this repo has its origin master repo at github and githup page is configured
 to build from 'master' branch open this URL:
 
- https://theno.github.io/revealjs_template
+ https://theno.github.io/presi-nacken
 
 
 ## Create PDF
 
 You need the URL of the presentation, either served locally or from github.
-Then, [use decktape](https://github.com/astefanutti/decktape#usage) decktape:
+Then, [use decktape](https://github.com/astefanutti/decktape#usage):
 
 ```sh
 cd ~/bin/decktape/active && \
@@ -87,28 +87,7 @@ cd ~/bin/decktape/active && \
 
 Or just print the `slides.md` rendered by github into a PDF:
 
-https://github.com/theno/revealjs_template/blob/master/slides.md
-
-
-## Update reveal.js Codebase
-
-This does not need to happen often.  From time to time, maybe a year after the
-last edit, the presentation needs an update with regards to contents.  Then, a
-reveal.js update could be a good idea, too.
-
-Just re-run task `setup.reveal.js` of
-[fabsetup](https://github.com/theno/fabsetup):
-
-```sh
-cd ~/repos/fabsetup
-git pull  # updating fabsetup suggested
-
-fab setup.revealjs -H localhost
-```
-
-When asked for:
-* Enter dir of this presentation
-* Anwer 'yes' in order to reset (and re-download) reveal.js codebase
+https://github.com/theno/presi-nacken/blob/master/slides.md
 
 
 [1]: https://github.com/theno/fabsetup/blob/master/howtos/revealjs.md
