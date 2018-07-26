@@ -100,12 +100,43 @@ Wegen Fehlhaltung typische Probleme:
 
 ----
 
+Welche Sitzposition ist die beste?
+
+Die Nächste
+
+----
+
 ## Geschäft mit dem Schmerz
 
 Es gibt so viel Zeugs zu kaufen
 
+Diese können wirklich was bringen:
+* guter Stuhl und Tisch
 * Hochkant-Maus
-* Fußablage
+* ggf. Fußablage um die Lenden zu entlasten
+
+
+----  ----
+
+# Stress
+
+----
+
+## Äußere Stressfaktoren
+
+----
+
+## Innere Stressoren
+
+* Ansprüche, Erwartungen an mich selber usw.
+
+----
+
+## Mit Stress umgehen
+
+* Eisenhower-Matrix
+* Komforzone
+* Strategien Stress zu mindern
 
 ----  ----
 
@@ -141,7 +172,7 @@ Ziel: Insgesamt Körper aufrichten Aufrichten
 ----
 
 Werkzeuge:
- * Terraband
+ * Thera-Band
  * Balance-Kissen
  * Matte
  * Gürtel
@@ -163,14 +194,31 @@ Täglich:
 * Spezifische Kraftübungen
 * Ausdauersport
 
+*eine Morgenroutine wäre optimal*
+
 ----
 
-Strategie für Nachhaltige Umstellung
+## Strategie für Nachhaltige Umstellung
 
-* Nicht alles auf einmal, sondern:
-* Gewohnheiten ändern
+* Nicht alles auf einmal ändern, sondern:
+* Neues zu Gewohnheiten machen
 
+----
+
+## Marathon statt Strohfeuer
+
+* Gewohnheiten gemächlich einführen
 * Bit by Bit, nicht 64 Byte auf einmal
+
+* dran bleiben, dennoch
+* Pausen sind okay -> wieder einsteigen ohne Schuldgefühl
+* die Einstellung zählt
+
+----
+
+> Das bringt doch alles bei mir nichts..
+
+..positiv denken lernen könnte weiterhelfen: https://urbestself.de/
 
 ----  ----
 
