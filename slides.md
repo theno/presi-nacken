@@ -122,13 +122,39 @@ Diese können wirklich was bringen:
 
 ----
 
+## Stressampel
+
+* Stressoren <--> Persönlich Stressverstärker --> Stressreaktion
+* langfristig --> Erschöpfung, Krankheit
+
+----
+
 ## Äußere Stressfaktoren
+
+* Leistungsanforderungen
+* Zu viel Arbeit
+* Soziale Konflikte
+* Zeitdruck
+* Störungen im Arbeitsfluss
 
 ----
 
 ## Innere Stressoren
 
-* Ansprüche, Erwartungen an mich selber usw.
+* Ungeduld
+* Perfektionismus
+* Kontrollstreben
+* Einzelkämpfertum
+* Selbstüberforderung
+
+----
+
+## Was Stress auslöst
+
+* Körperliche Aktivierung
+* Emotionale Aktivierung
+* Mentale Aktivierung
+* Verhaltens-Aktivierung
 
 ----
 
