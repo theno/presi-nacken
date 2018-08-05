@@ -129,6 +129,10 @@ Diese können wirklich was bringen:
 
 ----
 
+![](img/stressampel.png)
+
+----
+
 ## Äußere Stressfaktoren
 
 * Leistungsanforderungen
