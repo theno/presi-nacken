@@ -26,6 +26,75 @@ created by [theno](https://github.com/theno) | 2018-07-17 | [online][1] | [src][
 
 Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
 
+----  ----
+
+# Übung an der Wand
+
+----
+
+## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
+
+* mit dem Bauchnabel die Lendenwirbelsäule nach hinten an die Wand
+  drücken
+* Pomuskulatur anspannen
+* Oberschenkelmuskel anspannen
+* Alles ohne den Kontakt der LWS zur Wand zu verlieren
+
+Übung an der Wand fünf mal je fünf Atemzüge lang (30 Sekunden).
+Zwei Atemzüge (10 Sekunden) Pause dazwischen.
+
+Das Ganze sieben mal am Tag machen. (7 Einheiten je 5 Sätze 30-10-30...)
+
+----
+
+## Übung an der Wand
+
+ * SAT.1
+   * [Tipps vom Experten: Das können Sie gegen Rückenschmerzen tun](https://www.sat1regional.de/tipps-vom-experten-das-koennen-sie-gegen-rueckenschmerzen-tun/)
+   * [Chronische Rückenschmerzen: 75.000 Betroffene in Hamburg](https://www.sat1regional.de/chronische-rueckenschmerzen-75-000-betroffene-in-hamburg/)
+ * N3-Visite:
+   * [Interview: Spinalkanalstenose](https://www.youtube.com/watch?v=hI_cR2jqHZc)
+   * [Spinalkanalstenose: Übungen statt Operation](https://www.youtube.com/watch?v=kVfuXl1fFSw)
+   * [Übungen Rückenschmerzen](https://www.youtube.com/watch?v=xzNBqBGp1dE)
+   * [Powerplate: Vibrationen für Fitness und Reha](https://www.youtube.com/watch?v=uHnnGibjL9w)
+   * [Vorsicht bei Nahrungsergänzungsmitteln](https://www.youtube.com/watch?v=SiUVJdVVCUU)
+
+----
+
+## Übung an der Wand
+
+Sieben mal am Tag, zum Beispiel:
+
+1. morgens direkt nach dem Aufstehen
+
+2. als erstes auf Arbeit
+
+3. Beginn Mittagspause
+
+4. Ende Mittagspause
+
+5. zum Feierabend
+
+6. abends zuhause
+
+7. vor dem Schlafengehen
+
+----
+
+## Übung an der Wand
+
+* Beherrschst du das gut -- aber erst dann -- kannst du dich auch
+  nach oben hin weiter aufrichten:
+  * Brustbein (Sternum) aufrichten
+  * Schultern nach hinten
+  * Halswirbel aufrichten -> Doppelkinn machen
+  * dabei die (Bauch-Beine-Po-) Muskel-Anspannungen der Grundübung
+    nicht vernachlässigen!
+
+* Selbstkontrolle -> Übung vorm Spiegel machen
+
+* Mit der Zeit kann die Häufigkeit auf bis zu zweimal am Tag (morgens,
+  abends) reduziert werden.
 
 ----  ----
 

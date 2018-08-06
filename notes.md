@@ -9,14 +9,7 @@
 
 ## Übung an der Wand (ÜadW)
 
-* mit dem Bauchnabel die Lendenwirbelsäule nach hinten an die Wand
-  drücken
-* Pomuskulatur anspannen
-* Oberschenkelmuskel anspannen
-* Alles ohne den Kontakt der LWS zur Wand zu verlieren
-
-Übung an der Wand fünf mal je fünf Atemzüge lang und sieben mal am Tag
-machen.
+ical-Event anbieten
 
 ## Stressampel
 
@@ -86,3 +79,8 @@ geht im Büro nicht automatisch
 Es gibt kein einfaches Rezept!
 
 > Change it, love it or leave it.
+
+## Motivation halten
+
+* Vision: Attraktive Zukunft -> keine Nackenschmerzen
+* mit Freude machen -> Fokus auf: "Die Übungen tun mir gut"
