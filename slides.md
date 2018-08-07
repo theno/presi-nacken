@@ -38,26 +38,18 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
   drücken
 * Pomuskulatur anspannen
 * Oberschenkelmuskel anspannen
-* Alles ohne den Kontakt der LWS zur Wand zu verlieren
+* Alles ohne den Kontakt der Lendenwirbelsäule (LWS) zur Wand zu verlieren
 
-Übung an der Wand fünf mal je fünf Atemzüge lang (30 Sekunden).
-Zwei Atemzüge (10 Sekunden) Pause dazwischen.
+---
 
-Das Ganze sieben mal am Tag machen. (7 Einheiten je 5 Sätze 30-10-30...)
+<div class="fragment" />
 
-----
+ * fünf mal je
+   * fünf Atemzüge lang (30 Sekunden).
+   * zwei Atemzüge (10 Sekunden) Pause dazwischen
+ * das Ganze sieben mal am Tag machen
 
-## Übung an der Wand
-
- * SAT.1
-   * [Tipps vom Experten: Das können Sie gegen Rückenschmerzen tun](https://www.sat1regional.de/tipps-vom-experten-das-koennen-sie-gegen-rueckenschmerzen-tun/)
-   * [Chronische Rückenschmerzen: 75.000 Betroffene in Hamburg](https://www.sat1regional.de/chronische-rueckenschmerzen-75-000-betroffene-in-hamburg/)
- * N3-Visite:
-   * [Interview: Spinalkanalstenose](https://www.youtube.com/watch?v=hI_cR2jqHZc)
-   * [Spinalkanalstenose: Übungen statt Operation](https://www.youtube.com/watch?v=kVfuXl1fFSw)
-   * [Übungen Rückenschmerzen](https://www.youtube.com/watch?v=xzNBqBGp1dE)
-   * [Powerplate: Vibrationen für Fitness und Reha](https://www.youtube.com/watch?v=uHnnGibjL9w)
-   * [Vorsicht bei Nahrungsergänzungsmitteln](https://www.youtube.com/watch?v=SiUVJdVVCUU)
+(7 Einheiten je 5 Sätze [30-10-30-10-30-10-30-10-30])
 
 ----
 
@@ -95,6 +87,21 @@ Sieben mal am Tag, zum Beispiel:
 
 * Mit der Zeit kann die Häufigkeit auf bis zu zweimal am Tag (morgens,
   abends) reduziert werden.
+
+----
+
+## Übung an der Wand
+
+ * SAT.1
+   * [Tipps vom Experten: Das können Sie gegen Rückenschmerzen tun](https://www.sat1regional.de/tipps-vom-experten-das-koennen-sie-gegen-rueckenschmerzen-tun/)
+   * [Chronische Rückenschmerzen: 75.000 Betroffene in Hamburg](https://www.sat1regional.de/chronische-rueckenschmerzen-75-000-betroffene-in-hamburg/)
+ * N3-Visite:
+   * [Interview: Spinalkanalstenose](https://www.youtube.com/watch?v=hI_cR2jqHZc)
+   * [Spinalkanalstenose: Übungen statt Operation](https://www.youtube.com/watch?v=kVfuXl1fFSw)
+   * [Übungen Rückenschmerzen](https://www.youtube.com/watch?v=xzNBqBGp1dE)
+   * [Powerplate: Vibrationen für Fitness und Reha](https://www.youtube.com/watch?v=uHnnGibjL9w)
+   * [Vorsicht bei Nahrungsergänzungsmitteln](https://www.youtube.com/watch?v=SiUVJdVVCUU)
+
 
 ----  ----
 
