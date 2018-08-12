@@ -219,7 +219,7 @@ Diese können wirklich was bringen:
 
 ----
 
-## Innere Stressoren
+## Persönliche Stressverstärker
 
 * Ungeduld
 * Perfektionismus
@@ -229,7 +229,7 @@ Diese können wirklich was bringen:
 
 ----
 
-## Was Stress auslöst
+## Stress aktiviert
 
 * Körperliche Aktivierung
 * Emotionale Aktivierung
@@ -238,11 +238,101 @@ Diese können wirklich was bringen:
 
 ----
 
+## Stress will körperlich abgebaut werden
+
+geht im Büro nicht automatisch
+
+* => Achtsamkeit für Stress
+  * Bewusst abbauen:
+   * Achtsamkeitsübungen:
+    * auf genau eine Sache konzentrieren
+      (Stress bedeutet mehrere Dinge zugleich zu machen)
+    * Körper "durchfühlen"
+   * 2 Minuten lang: 4 Sekunden einatmen, 6 Sekunden ausatmen
+   * Telefonbuch anschaffen: Bei Stress versuchen, es zu zerreissen
+
+----
+
+## Stressverstärkende Gedanken
+
+Beispiele
+
+----
+
+## Selbsttest: Stresstyp
+
+* Sei perfekt!
+* Sei beliebt!
+* Sei stark!
+* yyy
+* zzz
+
+----
+
+## Stresslindernde Gedanken
+
+----
+
+### Sei perfekt
+
+* Auch ich darf Fehler machen
+* Aus Fehlern werd ich klug
+* Oft ist gut gut genug
+* Weniger ist manchmal mehr
+* So gut wie möglich, so gut wie nötig
+* Ab und zu lasse ich fünf gerade sein
+* Ich gebe mein Bestes und achte auf mich
+* Ich unterscheide zwischen wichtig und unwichtig
+* Nichts wird so heiß gegessen, wie es gekocht wird
+
+----
+
+### Sei beliebt
+
+* Ich darf "Nein" sagen
+* Ich achte auf meine Grenzen, meine Bedürfnisse
+* Ich sorge auch für mich
+* Ich bin gut zu mir
+* Ich darf andere enttäuschen
+* Ich kann/will/muss es nicht allen recht machen
+* Nicht alle anderen müssen mich mögen
+* Kritik gehört dazu
+* Ich darf kritisieren, meine Meinung sagen
+* Ich darf kritisiert werden
+
+----
+
+### Sei stark
+
+* Ich darf auch mal Schwäche zeigen
+* Schwächen sind menschlich
+* Ich darf um Hilfe/Unterstützung bitten
+* Es gibt Hilfe/Unterstützung für mich
+* Ich gebe anderen die Chance, mich zu unterstützen
+* Ich lasse mich unterstützen
+* Ich darf/kann delegieren
+* Ich darf meine Gefühle zeigen
+* Ich muss nicht alles selbst/allein machen
+
+----
+
 ## Mit Stress umgehen
 
 * Eisenhower-Matrix
 * Komforzone
 * Strategien Stress zu mindern
+
+----
+
+## Stress lösen
+
+Es gibt kein einfaches Rezept!
+
+> Change it, love it or leave it.
+
+----
+
+## Zusammenfassung
 
 ----  ----
 
@@ -306,8 +396,20 @@ Täglich:
 
 ## Strategie für Nachhaltige Umstellung
 
-* Nicht alles auf einmal ändern, sondern:
+* Nicht alles auf einmal ändern
+
+sondern:
+
 * Neues zu Gewohnheiten machen
+
+----
+
+## Motivation halten
+
+* Vision: **Attraktive Zukunft**
+  * _-> Beispiel: keine Nackenschmerzen_
+* mit Freude machen
+  * _-> Fokus auf: **"Die Übungen tun mir gut"**_
 
 ----
 
