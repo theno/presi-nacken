@@ -5,11 +5,12 @@
 
 ## Rücken- und andere Leiden lindern
 
-created by [theno](https://github.com/theno) | 2018-07-17 | [online][1] | [src][2]
+created by [theno](https://github.com/theno) | 2018-07-17 | [online][1] | [src][2] | [1page][3]
 
 
 [1]: https://theno.github.io/presi-nacken
 [2]: https://github.com/theno/presi-nacken
+[3]: https://github.com/theno/presi-nacken/blob/master/slides.md
 
 ----  ----
 
@@ -220,66 +221,59 @@ Diese können wirklich was bringen:
 
 ## Stressampel
 
-* Stressoren <--> Persönlich Stressverstärker --> Stressreaktion
-* langfristig --> Erschöpfung, Krankheit
-
-----
-
 ![](img/stressampel.png)
 
 ----
 
-## Äußere Stressfaktoren
+## Motivation
 
-* Leistungsanforderungen
-* Zu viel Arbeit
-* Soziale Konflikte
-* Zeitdruck
-* Störungen im Arbeitsfluss
+**Positiver Stress (Eustress)**  
+
+*--wird-auf-Dauer-zu-->*  
+
+**Dauerhaft Negativer Stress (Disstress)**
+
+---
+
+<div class="fragment" />
+
+Ziel:
+
+**Anhaltenden Stress vermeiden**
+
+---
+
+<div class="fragment" />
+
+*Was kann ich denn tun?*
+
+----
+
+## Stressreaktion
+
+Stress will körperlich abgebaut werden ->
+im Büro eine Herausforderung
+
+* Stress-Situationen erkennen und Stress bewusst abbauen:
+   * Achtsamkeitsübungen:
+     * auf genau eine Sache konzentrieren  
+       (Stress bedeutet mehrere Dinge zugleich zu machen)
+     * Körper "durchfühlen"
+   * 2 Minuten lang:  
+     4 Sekunden einatmen, 6 Sekunden ausatmen
+   * Telefonbuch anschaffen: Bei Stress versuchen, es zu zerreissen
 
 ----
 
 ## Persönliche Stressverstärker
 
-* Ungeduld
-* Perfektionismus
-* Kontrollstreben
-* Einzelkämpfertum
-* Selbstüberforderung
-
-----
-
-## Stress aktiviert
-
-* Körperliche Aktivierung
-* Emotionale Aktivierung
-* Mentale Aktivierung
-* Verhaltens-Aktivierung
-
-----
-
-## Stress will körperlich abgebaut werden
-
-geht im Büro nicht automatisch
-
-* => Achtsamkeit für Stress
-  * Bewusst abbauen:
-   * Achtsamkeitsübungen:
-    * auf genau eine Sache konzentrieren
-      (Stress bedeutet mehrere Dinge zugleich zu machen)
-    * Körper "durchfühlen"
-   * 2 Minuten lang: 4 Sekunden einatmen, 6 Sekunden ausatmen
-   * Telefonbuch anschaffen: Bei Stress versuchen, es zu zerreissen
-
-----
-
-## Stressverstärkende Gedanken
+### Stressverstärkende Gedanken
 
 Beispiele
 
 ----
 
-## Selbsttest: Stresstyp
+### Stresstyp
 
 * Sei perfekt!
 * Sei beliebt!
@@ -289,11 +283,7 @@ Beispiele
 
 ----
 
-## Stresslindernde Gedanken
-
-----
-
-### Sei perfekt
+### *Sei perfekt* - Stresslindernde Gedanken
 
 * Auch ich darf Fehler machen
 * Aus Fehlern werd ich klug
@@ -307,7 +297,7 @@ Beispiele
 
 ----
 
-### Sei beliebt
+### *Sei beliebt* - Stresslindernde Gedanken
 
 * Ich darf "Nein" sagen
 * Ich achte auf meine Grenzen, meine Bedürfnisse
@@ -322,7 +312,7 @@ Beispiele
 
 ----
 
-### Sei stark
+### *Sei stark* - Stresslindernde Gedanken
 
 * Ich darf auch mal Schwäche zeigen
 * Schwächen sind menschlich
@@ -347,6 +337,8 @@ Beispiele
 ## Stress lösen
 
 Es gibt kein einfaches Rezept!
+
+<div class="fragment" />
 
 > Change it, love it or leave it.
 
