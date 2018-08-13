@@ -36,8 +36,8 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
 ## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
 * Das Becken nach hinten kippen: *Mit dem Bauchnabel die Lendenwirbelsäule
   nach hinten an die Wand drücken*
-* Pomuskulatur anspannen
-* Oberschenkel anspannen
+* *Pomuskulatur anspannen*
+* Beine gerade halten: *Oberschenkel anspannen*
 * Stets Kontakt der Lendenwirbelsäule zur Wand halten
 
 ---
@@ -79,6 +79,9 @@ Sieben mal am Tag, zum Beispiel:
 
 ## Übung an der Wand
 
+* Selbstkontrolle -> Übung vorm Spiegel machen / *nackich*
+* Hüftbeuger in eigener Übung gezielt dehnen  
+  (ist oft verkürzt)
 * Beherrschst du das gut *-- aber erst dann --* kannst du dich auch
   nach oben hin weiter aufrichten:
   * Brustbein (Sternum) aufrichten
@@ -86,9 +89,6 @@ Sieben mal am Tag, zum Beispiel:
   * Halswirbel aufrichten -> Doppelkinn machen
   * dabei die (Bauch-Beine-Po-) Muskel-Anspannungen der Grundübung
     nicht vernachlässigen!
-
-* Selbstkontrolle -> Übung vorm Spiegel machen / *nackich*
-
 * Mit der Zeit kann die Häufigkeit auf bis zu zweimal am Tag (morgens,
   abends) reduziert werden.
 
