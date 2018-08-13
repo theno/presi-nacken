@@ -80,15 +80,27 @@ Sieben mal am Tag, zum Beispiel:
 ## Übung an der Wand
 
 * Selbstkontrolle -> Übung vorm Spiegel machen / *nackich*
-* Hüftbeuger in eigener Übung gezielt dehnen  
-  (ist oft verkürzt)
-* Beherrschst du das gut *-- aber erst dann --* kannst du dich auch
-  nach oben hin weiter aufrichten:
-  * Brustbein (Sternum) aufrichten
+
+* Spitzenmäßige Ergänzungen:
+
+  * Hüftbeuger ist oft verkürzt: Gezielt dehnen
+
+  * Pomuskel is oft verkümmert:
+    Kniebeugen sind der Hit!
+
+----
+
+## Übung an der Wand (ÜadW)
+
+* Beherrschst du die ÜadW gut *-- aber erst dann --* kannst
+  du dich auch nach oben hin weiter aufrichten:
   * Schultern nach hinten
+  * Brustbein (Sternum) aufrichten /  
+    Schulterblätter zusammen
   * Halswirbel aufrichten -> Doppelkinn machen
   * dabei die (Bauch-Beine-Po-) Muskel-Anspannungen der Grundübung
     nicht vernachlässigen!
+
 * Mit der Zeit kann die Häufigkeit auf bis zu zweimal am Tag (morgens,
   abends) reduziert werden.
 
