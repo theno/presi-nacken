@@ -33,12 +33,11 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
 ----
 
 ## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
-
-* mit dem Bauchnabel die Lendenwirbelsäule nach hinten an die Wand
-  drücken
+* Das Becken nach hinten kippen: *Mit dem Bauchnabel die Lendenwirbelsäule
+  nach hinten an die Wand drücken*
 * Pomuskulatur anspannen
-* Oberschenkelmuskel anspannen
-* Alles ohne den Kontakt der Lendenwirbelsäule (LWS) zur Wand zu verlieren
+* Oberschenkel anspannen
+* Stets Kontakt der Lendenwirbelsäule zur Wand halten
 
 ---
 
@@ -47,9 +46,13 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
  * fünf mal je
    * fünf Atemzüge lang (30 Sekunden).
    * zwei Atemzüge (10 Sekunden) Pause dazwischen
- * das Ganze sieben mal am Tag machen
 
-(7 Einheiten je 5 Sätze [30-10-30-10-30-10-30-10-30])
+---
+
+<div class="fragment" />
+
+ * das Ganze sieben mal am Tag machen  
+   (7 Einheiten je 5 Sätze [30-10-30-10-30-10-30-10-30])
 
 ----
 
@@ -75,7 +78,7 @@ Sieben mal am Tag, zum Beispiel:
 
 ## Übung an der Wand
 
-* Beherrschst du das gut -- aber erst dann -- kannst du dich auch
+* Beherrschst du das gut *-- aber erst dann --* kannst du dich auch
   nach oben hin weiter aufrichten:
   * Brustbein (Sternum) aufrichten
   * Schultern nach hinten
@@ -83,7 +86,7 @@ Sieben mal am Tag, zum Beispiel:
   * dabei die (Bauch-Beine-Po-) Muskel-Anspannungen der Grundübung
     nicht vernachlässigen!
 
-* Selbstkontrolle -> Übung vorm Spiegel machen
+* Selbstkontrolle -> Übung vorm Spiegel machen / *nackich*
 
 * Mit der Zeit kann die Häufigkeit auf bis zu zweimal am Tag (morgens,
   abends) reduziert werden.
@@ -176,9 +179,26 @@ Wegen Fehlhaltung typische Probleme:
 
 ----
 
-Welche Sitzposition ist die beste?
+## Typische Fehlhaltungen und Ausweichbewegungen
 
-Die Nächste
+* OSG: Fehlender Initial Contact. Abrollphase verringert
+* KG: Fehlende KG Ext., Fehlender Initial Contact
+* HG: Duchenne, Trendelenburg
+* SG: Protraktion, Elevation über BWS Ext.
+
+----
+
+## Welche Sitzposition ist die beste?
+
+<div class="fragment" />
+
+Die Nächste!
+
+---
+
+<div class="fragment" />
+
+Zauberformel: **Dynamisches Sitzen**
 
 ----
 
@@ -330,9 +350,6 @@ Es gibt kein einfaches Rezept!
 
 > Change it, love it or leave it.
 
-----
-
-## Zusammenfassung
 
 ----  ----
 
@@ -373,10 +390,6 @@ Werkzeuge:
  * Matte
  * Gürtel
  * Tennisball
-
-----  ----
-
-# Übungen
 
 ----  ----
 
