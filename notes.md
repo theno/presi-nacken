@@ -4,6 +4,10 @@
 
 ical-Event anbieten
 
+Werbefreie Intervall-Trainer-App: 'Bats! HIT' (auf F-Droid)
+
+----
+
 ## Stressverstärkende Gedanken
 
 alle fünf Stress-Typen auflisten (zwei fehlen noch)
