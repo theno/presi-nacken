@@ -447,7 +447,12 @@ nachzudenken, sich zu überwinden
 
 * Vision: **Attraktive Zukunft**
   * _-> Beispiel: keine Nackenschmerzen_
-* mit Freude machen
+  * Umkehrschluss:  
+    Negative Konsequenzen bei Unterlassen  
+    -> Beispiel (positiv gemünzt):  
+    _Ich vermeide irreversible Knorpelschäden_
+
+* Übungen mit **Freude** machen
   * _-> Fokus auf: **"Die Übungen tun mir gut"**_
 
 ----
