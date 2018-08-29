@@ -401,13 +401,15 @@ Werkzeuge:
 
 ----
 
-Täglich:
+täglich:
 
-* Dehnen
-* Spezifische Kraftübungen
+* dehnen
+* den Körper aufrichtende Kraftübungen
 * Ausdauersport
 
-*eine Morgenroutine wäre optimal*
+<div class="fragment" />
+
+*eine __Morgenroutine__ wäre optimal*
 
 ----
 
@@ -432,12 +434,31 @@ sondern:
 
 ## Marathon statt Strohfeuer
 
-* Gewohnheiten gemächlich einführen
-* Bit by Bit, nicht 64 Byte auf einmal
+**
+dran bleiben
+**
 
-* dran bleiben, dennoch
-* Pausen sind okay -> wieder einsteigen ohne Schuldgefühl
-* die Einstellung zählt
+* Gewohnheiten gemächlich einführen  
+  Bit by Bit, nicht 64 Byte auf einmal
+```
+    Stück für Stück -- bit by bit
+```
+* Pausen sind okay  
+  => wieder einsteigen ohne Schuldgefühl
+
+**
+die Einstellung zählt
+**
+
+----
+
+## Yet another Schweinehundtrick
+
+Aufsagen:
+
+> 3..2..1..los!
+
+_und tun_
 
 ----
 
