@@ -33,6 +33,15 @@ Habe mich damit auseinander gesetzt wegen Reha wegen Beinbruch
 
 ----
 
+## Übung an der Wand
+
+__Kräftigungsübung__
+
+Ziel:  
+_Die Wirbelsäule von unten her aufrichten_
+
+----
+
 ## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
 * Das Becken nach hinten kippen: *Mit dem Bauchnabel die Lendenwirbelsäule
   nach hinten an die Wand drücken*
@@ -415,11 +424,22 @@ täglich:
 
 ## Strategie für Nachhaltige Umstellung
 
+<div class="fragment" />
+
 * Nicht alles auf einmal ändern
 
 sondern:
 
-* Neues zu Gewohnheiten machen
+<div class="fragment" />
+
+* Neues zu **Gewohnheiten** machen
+
+---
+
+<div class="fragment" />
+
+Gewohnheiten werden _automatisch_ gemacht; ohne groß darüber
+nachzudenken, sich zu überwinden
 
 ----
 
