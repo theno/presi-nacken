@@ -5,7 +5,7 @@
 
 ## Rücken- und andere Leiden lindern
 
-created by [theno](https://github.com/theno) | 2018-07-17 | [online][1] | [src][2] | [1page][3]
+created by [theno](https://github.com/theno) | 2018-09-11 | [online][1] | [src][2] | [1page][3]
 
 
 [1]: https://theno.github.io/presi-nacken
@@ -587,6 +587,8 @@ dran bleiben
 ```
 * Pausen sind okay  
   => wieder einsteigen ohne Schuldgefühl
+
+* mal weniger Übungen machen
 
 **
 die Einstellung zählt
