@@ -49,7 +49,7 @@ Geht immer und überall, wo es eine Wand
 
 ----
 
-## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
+## [Übung an der Wand](https://youtu.be/XJYy6goJSXo#t=32s)
 * Das Becken nach hinten kippen: *Mit dem Bauchnabel die Lendenwirbelsäule
   nach hinten an die Wand drücken*
 * *Pomuskulatur anspannen*
@@ -128,11 +128,11 @@ Sieben mal am Tag, zum Beispiel:
    * [Tipps vom Experten: Das können Sie gegen Rückenschmerzen tun](https://www.sat1regional.de/tipps-vom-experten-das-koennen-sie-gegen-rueckenschmerzen-tun/)
    * [Chronische Rückenschmerzen: 75.000 Betroffene in Hamburg](https://www.sat1regional.de/chronische-rueckenschmerzen-75-000-betroffene-in-hamburg/)
  * N3-Visite:
-   * [Interview: Spinalkanalstenose](https://www.youtube.com/watch?v=hI_cR2jqHZc)
-   * [Spinalkanalstenose: Übungen statt Operation](https://www.youtube.com/watch?v=kVfuXl1fFSw)
-   * [Übungen Rückenschmerzen](https://www.youtube.com/watch?v=xzNBqBGp1dE)
-   * [Powerplate: Vibrationen für Fitness und Reha](https://www.youtube.com/watch?v=uHnnGibjL9w)
-   * [Vorsicht bei Nahrungsergänzungsmitteln](https://www.youtube.com/watch?v=SiUVJdVVCUU)
+   * [Interview: Spinalkanalstenose](https://youtu.be/XJYy6goJSXo)
+   * [Spinalkanalstenose: Übungen statt Operation](https://youtu.be/tgyTX-OIeOw)
+  * [Übungen Rückenschmerzen](https://youtu.be/xzNBqBGp1dE)
+   * [Powerplate: Vibrationen für Fitness und Reha](https://youtu.be/uHnnGibjL9w)
+  * [Vorsicht bei Nahrungsergänzungsmitteln](https://youtu.be/SiUVJdVVCUU)
 
 
 ----  ----
