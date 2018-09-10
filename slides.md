@@ -40,6 +40,13 @@ __Kräftigungsübung__
 Ziel:  
 _Die Wirbelsäule von unten her aufrichten_
 
+---
+
+<div class="fragment" />
+
+Geht immer und überall, wo es eine Wand
+(Bushaltestelle, Straßenschild, Baum, irgendwas zum Anlehnen) gibt
+
 ----
 
 ## [Übung an der Wand](https://www.youtube.com/watch?v=hI_cR2jqHZc#t=32s)
@@ -296,11 +303,102 @@ Beispiele
 
 ### Stresstyp
 
-* Sei perfekt!
-* Sei beliebt!
-* Sei stark!
-* yyy
-* zzz
+Innere Stimme:
+* __*Sei perfekt!*__
+* __*Sei beliebt!*__
+* __*Sei stark!*__
+* __*Sei auf der Hut!*__
+* __*Ich kann nicht!*__
+
+[mehr dazu](http://s514319074.online.de/pfiff2/pdf/Infoblatt_5_Stressverst+%A4rker_und_was_dahinter_steckt.pdf)
+
+----
+
+### *Sei perfekt!*
+
+* Überhöhter Wunsch:
+  * Erfolg
+  * Selbstbestätigung
+  * Anerkennung durch andere
+
+* Strategie: mehr leisten
+
+* Angst vor:
+  * Misserfolg
+  * Versagen
+  * Eigene Fehler
+
+* Ursache: Vermindertes Selbstwertgefühl (Narzissmus)
+
+----
+
+### *Sei beliebt!*
+
+* Überhöhter Wunsch nach:
+  * Zugehörigkeit
+  * Angenommensein
+  * Liebe
+
+* Motto: Eigene Bedürfnisse zurückstellen
+
+* Angst vor:
+  * Ablehnung
+  * Kritik
+  * Zurückweisung
+
+* Depressive Persönlichkeit  
+  (nach Fritz Riemann - Grundformen der Angst)
+
+----
+
+### *Sei stark!*
+
+* Überhöhter Wunsch nach:
+  * Persönliche Unabhängigkeit
+  * Selbstbestimmung
+
+* Motto: Alles selber machen
+
+* Angst vor:
+  * Abhängigkeit von anderen
+  * Eigene Hilfsbedürftigkeit
+  * Schwäche
+
+* Schizoide Persönlichkeit
+
+----
+
+### *Sei auf der Hut!*
+
+* Überhöhter Wunsch nach:
+  * Sicherheit
+  * Kontrolle
+
+* Motto: Bloß nichts verändern
+
+* Angst vor:
+  * Kontrollverlust
+  * Fehlentscheidungen
+  * Scheu vor Risiken
+
+* Zwanghafte Persönlichkeit
+
+----
+
+### *Ich kann nicht!*
+
+* Überhöhter Wunsch nach:
+  * Eigenes Wohlbefinden
+  * Bequemes Leben
+
+* Geringe Frustrationstoleranz
+
+* Angst vor:
+  * Unangenehme Gefühle
+  * Anstrengung
+  * Gefühl der Hilflosigkeit
+
+* Hysterische Persönlichkeit
 
 ----
 
