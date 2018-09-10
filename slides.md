@@ -447,13 +447,32 @@ Innere Stimme:
 
 ## Mit Stress umgehen
 
-* Eisenhower-Matrix
+Eisenhower-Matrix
+
+```
+     Wichtigkeit
+          ^
+          |  +-------------------------------------+
+          |  |      B / II      |      A / I       |
+ wichtig  |  |                  |                  |
+          |  |   planen und     |     sofort       |
+          |  | selber erledigen |    erledigen     |
+          |  +-------------------------------------+
+          |  |      D / IV      |      C / III     |
+ nicht    |  |                  |                  |
+ wichtig  |  |   nicht machen   |    delegieren    |
+          |  |                  |                  |
+          |  +-------------------------------------+
+          |
+          +-------------------------------------------> Dringlichkeit
+```
+
 * Komforzone
 * Strategien Stress zu mindern
 
 ----
 
-## Stress lösen
+## Mit Stress umgehen
 
 Es gibt kein einfaches Rezept!
 
