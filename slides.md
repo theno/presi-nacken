@@ -705,6 +705,109 @@ Einseitige Belastungen ausgleichen und ihnen entgegenwirken
 <img src="img/thera/nacken-staerken1.jpg" width="240"></img>
 <img src="img/thera/nacken-staerken2.jpg" width="240"></img>
 
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Arme heben
+
+<img src="img/thera/thera-arme-heben1.jpg" width="240"></img>
+<img src="img/thera/thera-arme-heben2.jpg" width="240"></img>
+
+<img src="img/thera/thera-arme-heben3.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Vorgeneigtes Rudern
+
+<img src="img/thera/vorgeneigtes-rudern1.jpg" width="240"></img>
+<img src="img/thera/vorgeneigtes-rudern2.jpg" width="240"></img>
+
+<img src="img/thera/vorgeneigtes-rudern3.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Kreuzheben
+
+<img src="img/thera/kreuzheben1.jpg" width="240"></img>
+<img src="img/thera/kreuzheben2.jpg" width="240"></img>
+
+<img src="img/thera/kreuzheben3.jpg" width="240"></img>
+<img src="img/thera/kreuzheben4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Seitenneigen
+
+<img src="img/thera/seitenneigen1.jpg" width="240"></img>
+<img src="img/thera/seitenneigen2.jpg" width="240"></img>
+
+<img src="img/thera/seitenneigen3.jpg" width="240"></img>
+<img src="img/thera/seitenneigen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Seitendrehen
+
+<img src="img/thera/seitendrehen1.jpg" width="240"></img>
+<img src="img/thera/seitendrehen2.jpg" width="240"></img>
+
+<img src="img/thera/seitendrehen3.jpg" width="240"></img>
+<img src="img/thera/seitendrehen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Kniebeuge und Arme heben
+
+<img src="img/thera/kniebeuge-armheben1.jpg" width="240"></img>
+<img src="img/thera/kniebeuge-armheben2.jpg" width="240"></img>
+
+<img src="img/thera/kniebeuge-armheben3.jpg" width="240"></img>
+<img src="img/thera/kniebeuge-armheben4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Lang machen
+
+<img src="img/thera/lang-machen1.jpg" width="240"></img>
+<img src="img/thera/lang-machen2.jpg" width="240"></img>
+
+<img src="img/thera/lang-machen3.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Crab Dance
+
+<img src="img/thera/crab-dance1.jpg" width="240"></img>
+<img src="img/thera/crab-dance2.jpg" width="240"></img>
+
+<img src="img/thera/crab-dance3.jpg" width="240"></img>
+<img src="img/thera/crab-dance4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Bogen spannen
+
+<img src="img/thera/bogen-spannen1.jpg" width="240"></img>
+<img src="img/thera/bogen-spannen2.jpg" width="240"></img>
+
+
 ----  ----
 
 # Weitere Übungen
