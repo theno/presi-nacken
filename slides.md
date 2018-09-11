@@ -73,6 +73,14 @@ Geht immer und überall, wo es eine Wand
 
 ----
 
+### Übung an der Wand
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+![](img/ueadw/ueadw.gif)
+
+----
+
 ## Übung an der Wand
 
 Sieben mal am Tag, zum Beispiel:
@@ -143,10 +151,19 @@ Sieben mal am Tag, zum Beispiel:
 
 ## Knorpel
 
-
 ----
 
-Knorpelschäden bis hin zur Athrose
+### Knorpel
+
+ * benötigt Druck sowie Entspannung
+   * Nährstoffversorgung: "Schwamm-Prinzip"
+     * Ruhephasen deshalb wichtig
+       * z.B. im Liegen schlafen
+     * Gelenke belasten deshalb wichtig
+       * z.B. gehen
+
+ * Knorpel wächst nicht nach / Schäden irreversibel
+   * bis hin zur Athrose (Knorpel ganz weg)
 
 ----
 
@@ -154,8 +171,19 @@ Knorpelschäden bis hin zur Athrose
 
 ----
 
-Bandscheibenvorfälle
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
 
+### Wirbelsäule
+
+<img src="img/wirbelsaeule/gesamt.jpg" width="480"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Bandscheibenvorfall
+
+<img src="img/wirbelsaeule/mitte.jpg" width="480"></img>
 
 ----  ----
 
@@ -163,11 +191,22 @@ Bandscheibenvorfälle
 
 ----
 
-Einseitige Belastung
+## Verformungsbild
+
+---
+
+<div class="fragment" />
+
+* Hals nach vorne geneigt
+* Rundrücken
+* verkürzter Hüftbeuger: Hüfte vorgekippt
+* Hohlkreuz
+
+-> anhaltende, einseitige Belastung
 
 ----
 
-Typische Probleme:
+## Typische Probleme
 
 * Halswirbel-Schmerzen
 * Nackenschmerzen
@@ -175,28 +214,11 @@ Typische Probleme:
 * Knieschmerzen
 * Karpaltunnelsyndrom
 
-----
-
-Verformungsbild:
-
-* verkürzter Hüftbeuger: Hüfte vorgekippt
-* Hohlkreuz
-* Rundrücken
-* Hals nach vorne geneigt
-
-----
-
 Fehlhaltung bedeutet übermäßige Belastung einzelner Körperteile
 
 ----
 
-Motivation:
-
-Mit der Zeit geht alles schlimmer -> irreversibel
-
-----
-
-Wegen Fehlhaltung typische Probleme:
+## Typische Probleme -- Eskalation
 
 * Bandscheibenprobs
   - Vorwölbungen
@@ -210,10 +232,30 @@ Wegen Fehlhaltung typische Probleme:
 
 ## Typische Fehlhaltungen und Ausweichbewegungen
 
+Suchmaschienen-Schlagwörter:
+
 * OSG: Fehlender Initial Contact. Abrollphase verringert
 * KG: Fehlende KG Ext., Fehlender Initial Contact
 * HG: Duchenne, Trendelenburg
 * SG: Protraktion, Elevation über BWS Ext.
+
+----
+
+## Motivation
+
+Mit der Zeit geht alles schlimmer -> irreversibel
+
+---
+
+### Die gute Nachricht:
+
+<div class="fragment" />
+
+ * Selber was tun hilft
+   * artgerechte Körperverwendung
+     * sitzen optimieren
+     * ausgleichen durch Übungen
+   * bei allen Eskalationsstufen!
 
 ----
 
@@ -240,10 +282,22 @@ Diese können wirklich was bringen:
 * Hochkant-Maus
 * ggf. Fußablage um die Lenden zu entlasten
 
+----
+
+<img src="img/zeugs/ergomaus.jpg" width="480"></img>
+
 
 ----  ----
 
 # Stress
+
+----
+
+## Stress + Sitzen => Schmerzen
+
+Unter Stress: **verkrampfte Haltung**
+  * unergonomisch
+  * anhaltend, einseitig
 
 ----
 
@@ -331,6 +385,8 @@ Innere Stimme:
 * Ursache: Vermindertes Selbstwertgefühl (Narzissmus)
 
 ----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
 
 ### *Sei beliebt!*
 
@@ -447,7 +503,7 @@ Innere Stimme:
 
 ## Mit Stress umgehen
 
-Eisenhower-Matrix
+Eisenhower-Matrix über Dinge die zu tun sind
 
 ```
      Wichtigkeit
@@ -494,6 +550,129 @@ Einseitige Belastungen ausgleichen und ihnen entgegenwirken
 ----
 
 ## Ohne Thera-Band
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Zur Seite drehen
+
+<img src="img/buero/zur-seite1.jpg" width="240"></img>
+<img src="img/buero/zur-seite2.jpg" width="240"></img>
+
+<img src="img/buero/zur-seite3.jpg" width="240"></img>
+<img src="img/buero/zur-seite4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Arme nach vorne und hinten
+
+<img src="img/buero/arme-vorne-hinten1.jpg" width="240"></img>
+<img src="img/buero/arme-vorne-hinten2.jpg" width="240"></img>
+
+<img src="img/buero/arme-vorne-hinten3.jpg" width="240"></img>
+<img src="img/buero/arme-vorne-hinten4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Kniebeuge
+
+<img src="img/buero/kniebeuge1.jpg" width="240"></img>
+<img src="img/buero/kniebeuge2.jpg" width="240"></img>
+
+<img src="img/buero/kniebeuge3.jpg" width="240"></img>
+<img src="img/buero/kniebeuge4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Zur Seite "boxen"
+
+<img src="img/buero/boxen1.jpg" width="240"></img>
+<img src="img/buero/boxen2.jpg" width="240"></img>
+
+<img src="img/buero/boxen3.jpg" width="240"></img>
+<img src="img/buero/boxen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Dips
+
+<img src="img/buero/dips1.jpg" width="240"></img>
+<img src="img/buero/dips2.jpg" width="240"></img>
+
+<img src="img/buero/dips3.jpg" width="240"></img>
+<img src="img/buero/dips4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### lang machen
+
+<img src="img/buero/lang-machen1.jpg" width="240"></img>
+<img src="img/buero/lang-machen2.jpg" width="240"></img>
+
+<img src="img/buero/lang-machen3.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Hüftbeuger dehnen
+
+<img src="img/buero/hueftbeuger-dehnen1.jpg" width="240"></img>
+<img src="img/buero/hueftbeuger-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Brustmuskel dehnen
+
+<img src="img/buero/brustmuskel-dehnen1.jpg" width="240"></img>
+<img src="img/buero/brustmuskel-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Handgelenk dehnen
+
+<img src="img/buero/handgelenk-dehnen.jpg" width="480"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Rücken mobilisieren
+
+<img src="img/buero/ruecken-mobilisieren1.jpg" width="240"></img>
+<img src="img/buero/ruecken-mobilisieren2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Nackenseite dehnen
+
+<img src="img/buero/nackenseite-dehnen1.jpg" width="240"></img>
+<img src="img/buero/nackenseite-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Po dehnen
+
+<img src="img/buero/po-dehnen.jpg" width="480"></img>
 
 ----
 
@@ -614,7 +793,8 @@ _und tun_
 
 <!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
 
-### *Thank You for Your attention!*
+### *Vielen Dank für Eure Aufmerksamkeit!*
 <!-- .element: class="no-toc-progress" -->
 
 ![](img/thanks.jpg)
+
