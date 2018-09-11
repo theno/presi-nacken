@@ -1,5 +1,10 @@
 # Notizen
 
+## TODO
+
+* Stressverstärkende Gedanken:
+  Beispiele auflisten
+
 ## Übung an der Wand (ÜadW)
 
 ical-Event anbieten

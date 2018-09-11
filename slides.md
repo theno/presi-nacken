@@ -678,6 +678,33 @@ Einseitige Belastungen ausgleichen und ihnen entgegenwirken
 
 ## Mit Thera-Band
 
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Brustwirbel und Schultergürtel mobilisieren
+
+<img src="img/thera/brustwirbel-schulterguertel1.jpg" width="240"></img>
+<img src="img/thera/brustwirbel-schulterguertel2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Unterarme öffnen
+
+<img src="img/thera/unterarme-oeffnen1.jpg" width="240"></img>
+<img src="img/thera/unterarme-oeffnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Nacken stärken
+
+<img src="img/thera/nacken-staerken1.jpg" width="240"></img>
+<img src="img/thera/nacken-staerken2.jpg" width="240"></img>
+
 ----  ----
 
 # Weitere Übungen
@@ -693,12 +720,159 @@ Ziel: Insgesamt Körper aufrichten Aufrichten
 
 ----
 
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Flaschenpendeln
+
+<img src="img/weitere/flaschenpendeln1.jpg" width="240"></img>
+<img src="img/weitere/flaschenpendeln3.jpg" width="240"></img>
+
+<img src="img/weitere/flaschenpendeln5.jpg" width="240"></img>
+<img src="img/weitere/flaschenpendeln6.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Gewichtspendeln
+
+<img src="img/weitere/gewichts-pendeln1.jpg" width="240"></img>
+<img src="img/weitere/gewichts-pendeln2.jpg" width="240"></img>
+
+<img src="img/weitere/gewichts-pendeln3.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Gewichts-Gehen-Drehen
+
+<img src="img/weitere/gewichts-gehen-drehen1.jpg" width="240"></img>
+<img src="img/weitere/gewichts-gehen-drehen2.jpg" width="240"></img>
+
+<img src="img/weitere/gewichts-gehen-drehen3.jpg" width="240"></img>
+<img src="img/weitere/gewichts-gehen-drehen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Gewichts-Hipster
+
+<img src="img/weitere/gewichts-hipster1.jpg" width="240"></img>
+<img src="img/weitere/gewichts-hipster2.jpg" width="240"></img>
+
+<img src="img/weitere/gewichts-hipster4.jpg" width="240"></img>
+<img src="img/weitere/gewichts-hipster5.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Hüftbeuger dehnen
+
+<img src="img/weitere/hueftbeuger-dehnen1.jpg" width="240"></img>
+<img src="img/weitere/hueftbeuger-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Knie-Innenseite dehnen
+
+<img src="img/weitere/knie-dehnen.gif" width="240"></img>
+
+<img src="img/weitere/knie-dehnen1.jpg" width="240"></img>
+<img src="img/weitere/knie-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Oberschenkel dehnen
+
+<img src="img/weitere/oberschenkel-dehnen1.jpg" width="240"></img>
+<img src="img/weitere/oberschenkel-dehnen2.jpg" width="240"></img>
+
+<img src="img/weitere/oberschenkel-dehnen3.jpg" width="240"></img>
+<img src="img/weitere/oberschenkel-dehnen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Po dehnen
+
+<img src="img/weitere/po-dehnen1.jpg" width="240"></img>
+<img src="img/weitere/po-dehnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Rücken verdrehen
+
+<img src="img/weitere/ruecken-verdrehen1.jpg" width="240"></img>
+<img src="img/weitere/ruecken-verdrehen2.jpg" width="240"></img>
+
+<img src="img/weitere/ruecken-verdrehen3.jpg" width="240"></img>
+<img src="img/weitere/ruecken-verdrehen4.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Standwaage
+
+<img src="img/weitere/standwaage1.jpg" width="480"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Öffnen mit Thera-Band
+
+<img src="img/weitere/thera-oeffnen1.jpg" width="240"></img>
+<img src="img/weitere/thera-oeffnen2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Kleine Schritte mit Thera-Band
+
+<img src="img/weitere/thera-walk1.jpg" width="240"></img>
+<img src="img/weitere/thera-walk2.jpg" width="240"></img>
+
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+
+### Von der Wand abdrücken
+
+<img src="img/weitere/wand-abdruecken1.jpg" width="240"></img>
+<img src="img/weitere/wand-abdruecken2.jpg" width="240"></img>
+
+----
+
 Werkzeuge:
  * Thera-Band
  * Balance-Kissen
  * Matte
  * Gürtel
  * Tennisball
+
+<img src="img/zeugs/medizinbaelle.jpg" width="240"></img>
+
+----
+
+<img src="img/zeugs/faszienrolle.jpg" width="240"></img>
+<img src="img/zeugs/halbrund.jpg" width="240"></img>
+<img src="img/zeugs/luftkissen.jpg" width="240"></img>
+
+<img src="img/zeugs/aero-step.jpg" width="240"></img>
+<img src="img/zeugs/medizinball.jpg" width="240"></img>
+<img src="img/zeugs/flauer-ball.jpg" width="240"></img>
 
 ----  ----
 
